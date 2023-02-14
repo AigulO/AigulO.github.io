@@ -17,7 +17,7 @@ color: #DCAE1D;
   max-width: 100%;
   height: auto;
   background-image: url(banner.jpg);
-  background-size: cover;
+  background-size: contain;
 	color: #fff685;
 	text-align:  center;
 	text-shadow: 2px 2px 2px #f75990;
